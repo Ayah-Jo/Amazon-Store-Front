@@ -61,3 +61,5 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 * Node.js
 * Inquirer NPM Package (https://www.npmjs.com/package/inquirer)
 * MySQL Workbench
+
+![MySQL](./bamazonMySQLPic.png)
