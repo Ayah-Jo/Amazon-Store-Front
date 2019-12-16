@@ -53,3 +53,11 @@ If the manager selects Create New Department, it allows the manager to create a 
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 ![Supervisor](./bamazonSupervisorPic.png)
+
+#### Technologies used to build app
+* VSC
+* Terminal/Git
+* JavaScript
+* Node.js
+* Inquirer NPM Package (https://www.npmjs.com/package/inquirer)
+* MySQL Workbench
