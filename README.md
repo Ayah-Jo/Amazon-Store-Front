@@ -16,6 +16,8 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase.
 It will also update the product sales in the department table.
 
+![Customer](./bamazonCustomerPic.png)
+
 #### BamazonManager.js
 
 Starts with a menu:
@@ -35,6 +37,8 @@ If the manager selects Add New Product, it allows the manager to add a new produ
 
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
+![Manager](./bamazonManagerPic.png)
+
 #### BamazonSupervisor.js
 
 Starts with a menu:
@@ -47,3 +51,5 @@ Starts with a menu:
 If the manager selects Create New Department, it allows the manager to create a new department and input current overhead costs and product sales. If there are none, by default it will set at 0.
 
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
+
+![Supervisor](./bamazonSupervisorPic.png)
