@@ -46,6 +46,7 @@ If the manager selects End Session, it ends the session and doesn't go back to t
 
 Starts with a menu:
 
+
 * View Product Sales by Department
 * Create New Department
 * End Session
