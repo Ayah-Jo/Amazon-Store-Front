@@ -1,8 +1,10 @@
 # Node.js-MySQL-Amamzon-Store-Front
 ## Bamazon
+
 Bamazon is a command line node application using MySQL and npm packages to create an Amazon-like storefront.
 
 ### What Each JavaScript Does
+
 #### BamazonCustomer.js
 
 * Prints the products in the store.
@@ -27,6 +29,7 @@ Starts with a menu:
 * Add to Inventory
 * Add New Product
 * End Session
+
 If the manager selects View Products for Sale, it lists all of the products in the store including all of their details.
 
 If the manager selects View Low Inventory, it'll list all the products with less than five items in its StockQuantity column.
